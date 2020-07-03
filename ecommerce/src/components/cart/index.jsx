@@ -1,5 +1,7 @@
 import React from "react";
 
+const items = ["camera", "tv", "radio"];
+
 export default function Cart({ stripeToken }) {
   return (
     <div>
